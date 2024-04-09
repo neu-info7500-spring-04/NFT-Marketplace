@@ -1,0 +1,21 @@
+{
+  "name": "marketplace3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "deploy": "echo 'Deploy your smart contracts here'",
+    "test": "echo 'Run tests for your smart contracts here'"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "web3modal": "^1.9.7"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.8",
+    "hardhat": "^2.9.7"
+  }
+}
